@@ -1,0 +1,11 @@
+.idea
+figures
+pre_trained
+save_fig
+output
+save_model*
+softmax_scores
+tensorboard
+tmp
+plot
+fig
